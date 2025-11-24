@@ -1,0 +1,21 @@
+[
+    {
+        "timestamp": "2025-11-24T17:48:26.241231",
+        "mood": "tired",
+        "energy": "low",
+        "objectives": [
+            "Study for tomorrow's exam"
+        ],
+        "summary": "We discussed breaking your study time into smaller, manageable chunks with short breaks to help with your tiredness and focus for your exam."
+    },
+    {
+        "timestamp": "2025-11-24T18:14:05.055320",
+        "mood": "unwell",
+        "energy": "low",
+        "objectives": [
+            "review a specific topic for 30 minutes",
+            "organize study materials"
+        ],
+        "summary": "Prioritize rest and hydration, and break down study tasks into smaller, manageable steps."
+    }
+]
