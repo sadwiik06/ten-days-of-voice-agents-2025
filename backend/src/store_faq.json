@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What does Razorpay do?",
+        "answer": "Razorpay provides online payment solutions that allow businesses to accept payments via cards, UPI, net banking, and wallets, along with tools for invoicing, subscriptions, and business banking."
+    },
+    {
+        "question": "Who is this for?",
+        "answer": "Razorpay is built for startups, ecommerce businesses, SaaS platforms, freelancers, marketplaces, and enterprises that require secure and scalable payment infrastructure."
+    },
+    {
+        "question": "Do you have a free tier?",
+        "answer": "Razorpay has no setup or annual fees. Businesses only pay a transaction fee when they successfully receive payments."
+    },
+    {
+        "question": "What are your pricing details?",
+        "answer": "Standard payment gateway pricing starts at approximately 2% per transaction depending on the payment mode. Additional services may have separate usage-based charges."
+    },
+    {
+        "question": "Can I use Razorpay for subscriptions?",
+        "answer": "Yes, Razorpay supports recurring billing and subscription management for SaaS and membership-based businesses."
+    },
+    {
+        "question": "Does Razorpay support international payments?",
+        "answer": "Yes, international payments are supported with additional compliance requirements and activation steps."
+    },
+    {
+        "question": "Is Razorpay secure?",
+        "answer": "Razorpay follows industry-grade security standards including PCI DSS compliance and encrypted transactions."
+    }
+]
